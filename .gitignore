@@ -1,0 +1,12 @@
+# idea
+.idea/
+.vscode/
+
+# config
+out/
+
+# misc
+.DS_Store
+npm-debug.log*
+**.log
+
